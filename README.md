@@ -14,7 +14,7 @@ Some explanations
 - **ovals** are database tables
 - **arrows** are the low level ETL programs (that read from one of more tables and write to one of more tables)
 
-![alt text](https://github.com/PaavoT/ETL-Data-Lineage/blob/master/FORWARD_ep1__lips.jpg)
+![alt text](https://github.com/PaavoT/ETL-Data-Lineage/blob/master/FORWARD_sap__lips.jpg)
 
 How to use the demo
 
