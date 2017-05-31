@@ -26,6 +26,5 @@ How to use the demo
 
 You should see this.. the **overall ETL landscape**. From there you can drill down to the details to see how data flows from a table to another, and even see the **SQL code** that is used in the ETL.
 
-![alt text](https://github.com/PaavoT/ETL-Data-Lineage/blob/master/index.jpg)
 
 Have fun!
